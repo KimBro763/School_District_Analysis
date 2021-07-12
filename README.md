@@ -1,10 +1,10 @@
 # School_District_Analysis
 Pandas &amp; Jupyter Notebook
 
-# Project Overview
-
-## Purpose and Background
+## Project Overview: Purpose and Background
 The purpose of this project is to help the city school district prepare standardized test data for analysis, reporting, and presentation.  More specifically, student funding and standardized math and reading test scores were analyzed. An additional analysis required the removal of ninth grade scores from Thomas High School, which affected some of the metrics. Based on this information, trends regarding school performance are presented below. 
+
+
 
 
 ## School Analysis Results: 
